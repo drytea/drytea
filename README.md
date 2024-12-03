@@ -13,7 +13,7 @@ I am a full-stack software developer, and I am working on the following in my Gi
 ---
 
 ## 🚀 Daily Coding Activity
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=drytea)
+[![drytea's GitHub stats](https://github-readme-stats.vercel.app/api?username=drytea)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
