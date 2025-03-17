@@ -17,21 +17,6 @@ I am a full-stack software developer, and I am working on the following in my Gi
 
 ---
 
-## 🏆 My GitHub Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=drytea&theme=gruvbox)
-
----
-
-## 📈 Commit Activity Graph
-![Commit Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=drytea&theme=github)
-
----
-
-## 🔄 Work Streak Stats
-![Streak Stats](https://streak-stats.demolab.com?user=drytea&theme=highcontrast)
-
----
-
 ## 👀 Profile Visitor Counter
 ![Visitor Count](https://komarev.com/ghpvc/?username=drytea&color=blue)
 
